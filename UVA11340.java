@@ -16,7 +16,6 @@ public class UVA11340 {
                 StringTokenizer st = new StringTokenizer(line);
                 int position = (int)st.nextToken().charAt(0);
                 ascii_table[position] = Integer.parseInt(st.nextToken());
-
             }
             
             int nLines = Integer.parseInt(in.readLine());
