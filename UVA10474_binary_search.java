@@ -4,7 +4,7 @@
 import java.io.*;
 import java.util.*;
 
-public class UVA10474 {
+public class UVA10474_binary_search {
     public static void main(String[] args) throws Exception{
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
         boolean flag = true;
