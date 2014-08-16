@@ -3,7 +3,7 @@
 
 import java.util.*;
 
-public class UVA574{
+public class UVA574_bubble_sort{
     public static void main(String[] args) throws Exception{
         Scanner sc = new Scanner(System.in);
         boolean flag = true;
